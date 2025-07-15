@@ -10,6 +10,17 @@ Welcome to **My Cafeteria**! This is a simple Python-based command-line project 
 - 💵 Displays bill and exit option  
 - 🔁 Option to place another order
 
+📚 Learning Objectives
+This project helped me practice:
+
+Python basics (variables, loops, conditions)
+
+Input/output handling
+
+Using dictionaries/lists for menus
+
+Functions for modular code
+
 Welcome to My Cafeteria!
 1. Tea        - ₹10
 2. Coffee     - ₹80
