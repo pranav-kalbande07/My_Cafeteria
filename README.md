@@ -12,9 +12,9 @@ Welcome to **My Cafeteria**! This is a simple Python-based command-line project 
 
 Welcome to My Cafeteria!
 1. Tea        - ₹10
-2. Coffee     - ₹15
-3. Sandwich   - ₹30
-4. Burger     - ₹50
+2. Coffee     - ₹80
+3. Maggie     - ₹50
+4. Burger     - ₹60
 5. Exit
 
 Enter item number to order: 2
@@ -22,7 +22,8 @@ Quantity: 1
 
 Do you want to order more? (yes/no): yes
 ...
-Your total bill is ₹65
+Your total bill is ₹80
+
 Thank you for visiting!
 
 
